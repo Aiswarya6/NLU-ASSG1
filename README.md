@@ -111,14 +111,6 @@ semantic meaning. Documents containing mixed-domain content may be
 misclassified. Performance may also degrade under domain shifts or changes
 in vocabulary.
 
----
-
-## Repository Structure
-
-.
-├── Sport_vs_Politics_Classifier.ipynb
-├── README.md
-
 
 
 ## How to Run
