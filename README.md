@@ -132,10 +132,3 @@ achieve strong performance on text classification tasks. The comparative
 analysis provides insight into how different modeling assumptions affect
 classification behavior in high-dimensional textual data.
 
----
-
-## Author
-
-Aiswarya K
-b22cs028
-Course: Natural Language Understanding
